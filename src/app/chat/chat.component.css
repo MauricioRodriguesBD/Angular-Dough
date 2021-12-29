@@ -1,0 +1,35 @@
+body {
+    overflow: hidden;
+}
+.my-5 {
+    margin-top: 1.5rem !important;
+}
+
+.chat {
+    max-width: 1620px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start!important;
+    padding: 50px!important;
+}
+
+.chat img{
+    width: 50px;
+    height: 50px;
+}
+
+.mensagem{
+    margin-top: 50px;
+}
+
+.bot button{
+    margin: 2px 0;
+    border-radius: 50px;
+}
+
+.imagem-bot{
+    width: 10%;
+}
+.bot{
+    width: 90%;
+}

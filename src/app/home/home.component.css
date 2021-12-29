@@ -1,0 +1,6 @@
+.col-md-11 .desabilitado {
+    pointer-events: none;
+}
+.formulario{
+padding: 10px 20px !important;
+}
